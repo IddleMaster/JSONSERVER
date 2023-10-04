@@ -1,0 +1,24 @@
+{
+    "jugadores":[
+        {
+            "id": "1",
+            "nombre": "francisco",
+            "genero": "masculino"
+
+
+        },
+
+        {
+            "id": "2",
+            "nombre": "franciscock",
+            "genero": "masculino"
+
+
+        }
+
+    ]
+
+
+
+
+}
