@@ -1,14 +1,14 @@
 {
     "usuarios":[
     {
-        "id": "1",
+        "id": 1,
         "nombre": "Mario",
         "genero":"Masculino"
 
 
     },
     {
-        "id": "2",
+        "id": 2,
         "nombre": "Antonio",
         "genero":"Masculino"
 
