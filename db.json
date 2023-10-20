@@ -20,7 +20,7 @@
     "pasajeros":[
     {
         "id":1,
-        "nombre":"Johan",
+        "email":"Johan@duocuc.cl",
         "contraseña":"maricon123"
 
     }
@@ -30,7 +30,7 @@
     "conductores":[
     {
         "id":1,
-        "nombre":"Jaime",
+        "email":"Jaime@duocuc.cl",
         "contraseña":"Cocinero"
 
  
