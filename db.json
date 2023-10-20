@@ -22,7 +22,7 @@
         "id":1,
         "nombre":"Johan",
         "email":"Johan@duocuc.cl",
-        "contraseña":"maricon123"
+        "password":"maricon123"
 
     }
     
@@ -33,7 +33,7 @@
         "id":1,
         "nombre":"Jaime",
         "email":"Jaime@duocuc.cl",
-        "contraseña":"Cocinero"
+        "password":"Cocinero"
 
  
     
