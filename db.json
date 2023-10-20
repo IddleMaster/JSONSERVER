@@ -15,6 +15,28 @@
 
     }
 
+    ],
+
+    "pasajeros":[
+    {
+        "id":1,
+        "nombre":"Johan",
+        "contraseña":"maricon123"
+
+    }
+    
+    
+    ],
+    "conductores":[
+    {
+        "id":1,
+        "nombre":"Jaime",
+        "contraseña":"Cocinero"
+
+ 
+    
+    }
+
     ]
 
 }
