@@ -25,13 +25,6 @@
         "password":"maricon123"
 
     }
-    {
-        "id":2,
-        "nombre":"Johan2",
-        "email":"Johan2@duocuc.cl",
-        "password":"maricon123"
-
-    }
     
     
     ],
@@ -44,6 +37,17 @@
 
  
     
+    }
+
+    ],
+
+    "viajes":[
+    {"id":1,
+    "conductor":"Mario",
+    "auto": "Nissan Skyline",
+    "horainicio":"7:50",
+    "destino": "Duoc Puente",
+    "patente": "MAR-105"
     }
 
     ]
