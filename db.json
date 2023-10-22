@@ -9,8 +9,9 @@
     },
     {
         "id": 2,
-        "nombre": "Antonio",
-        "genero":"Masculino"
+        "email": "Antonio",
+        "password":"Masculino",
+        "conductor":true
 
 
     }
